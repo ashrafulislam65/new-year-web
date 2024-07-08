@@ -357,7 +357,7 @@
     height: 662.07px;
     margin-top: 69px;
     margin-left: 140px;
-   
+
 }
 
 .holiday-pic1 {
@@ -377,13 +377,97 @@
 .flexing {
     display: flex;
     justify-content: space-between;
-    
+
 }
-.holiday-pic3{
+
+.holiday-pic3 {
     width: 1320px;
     height: 229px;
     background-image: url(../images/Rectangle\ 2.png);
     background-position: bottom;
-    
+
 }
 
+.sale-pic {
+    width: 1320px;
+    height: 1163px;
+    border: 2px solid tomato;
+    margin-top: 200.07px;
+    margin-left: 140px;
+}
+
+.sale-pic1 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.sale-pic2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.sale-pic3 {
+    width: 896px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.image1 {
+    background-image: url(../images/Rectangle\ 3.png);
+    width: 424px;
+    height: 450px;
+}
+
+.image2 {
+    background-image: url(../images/Rectangle\ 4.png);
+    width: 424px;
+    height: 450px;
+}
+
+.image3 {
+    background-image: url(../images/Rectangle\ 5.png);
+    width: 424px;
+    height: 450px;
+}
+
+.image4 {
+    background-image: url(../images/Rectangle\ 6.png);
+    width: 424px;
+    height: 450px;
+
+}
+
+.image5 {
+    background-image: url(../images/Rectangle\ 7.png);
+    width: 424px;
+    height: 450px;
+}
+
+.image6 {
+    background-image: url(../images/Rectangle\ 8.png);
+    width: 424px;
+    height: 450px;
+}
+.sale-pic4{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    gap: 24px;
+    margin-top: 48px;
+}
