@@ -347,6 +347,43 @@
     letter-spacing: 0%;
     text-align: center;
 }
-.n{
+
+.n {
     color: rgb(255, 0, 0);
 }
+
+.holiday-pic {
+    width: 1320px;
+    height: 662.07px;
+    margin-top: 69px;
+    margin-left: 140px;
+   
+}
+
+.holiday-pic1 {
+    width: 674.82px;
+    height: 577.96px;
+    margin-left: 60.83px;
+    background-image: url(../images/Group\ 75.png);
+}
+
+.holiday-pic2 {
+    margin-top: 77px;
+    width: 305.69px;
+    height: 305.69px;
+    background-image: url(../images/Group\ 44.png);
+}
+
+.flexing {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.holiday-pic3{
+    width: 1320px;
+    height: 229px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-position: bottom;
+    
+}
+
