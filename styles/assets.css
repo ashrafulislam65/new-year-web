@@ -391,7 +391,7 @@
 .sale-pic {
     width: 1320px;
     height: 1163px;
-    border: 2px solid tomato;
+    /* border: 2px solid tomato; */
     margin-top: 200.07px;
     margin-left: 140px;
 }
@@ -477,7 +477,7 @@
 .subscribe {
     width: 1320px;
     height: 616px;
-    border: 2px solid tomato;
+    /* border: 2px solid tomato; */
     margin-top: 120px;
     margin-left: 140px;
     background-color: rgba(255, 0, 0, 0.05);
@@ -558,12 +558,13 @@
 .foot {
     width: 1600px;
     height: 609px;
-    border: 2px solid blue;
-    margin-top: 120px;
+    /* border: 2px solid blue; */
+    margin-top: 100px;
     background: rgb(7, 2, 17);
 }
 
 .upper {
+    padding-top: 120px;
     margin-top: 120px;
     display: flex;
     color: rgb(255, 255, 255);
