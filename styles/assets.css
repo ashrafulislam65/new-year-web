@@ -156,10 +156,55 @@
     text-transform: uppercase;
 }
 
-.party{
+.party {
     display: flex;
     width: 1320px;
     height: 600px;
     background-image: url(../images/Vectorrr.png);
     margin: 120px;
+}
+
+/* section join */
+.join1 {
+   
+    justify-items: center;
+    justify-content: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.join-btn {
+    width: 167px;
+    height: 56px;
+    margin-top: 48px;
+    margin-left: 590px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    border-color: white;
+}
+
+.join-section {
+    margin-top: 100px;
+    padding-top: 100px;
+    width: 1320px;
+    height: 482px;
+    margin-left: 140px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+}
+.p{
+    color:  rgb(255, 0, 0);;
 }
