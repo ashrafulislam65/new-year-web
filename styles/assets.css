@@ -217,20 +217,21 @@
 }
 
 .new-offer4 {
-   margin-top: 49.08px;
-   margin-left: 49.08px;
+    margin-top: 49.08px;
+    margin-left: 49.08px;
     width: 364.84px;
     height: 364.84px;
     background-image: url(../images/Ellipse\ 1.png);
-   
-    
+
+
 }
-.l{
+
+.l {
     width: 463px;
     height: 463px;
-   
+
     border: 10px solid rgb(255, 0, 0);
-    
+
     border-radius: 50%;
 
 }
@@ -305,4 +306,47 @@
     background: linear-gradient(180.00deg, rgb(248, 246, 251) 12.89%, rgb(239, 220, 251) 175.655%);
     background-image: url(../images/Group\ 96.png);
 
+}
+
+/* hyoliday-sale started */
+.holiday-sale {
+    margin: 120px 266px;
+    width: 1068px;
+    height: 260px;
+
+    /* border: 2px solid red; */
+}
+
+.holiday-sale1 {
+    margin-bottom: 16px;
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.holiday-sale2 {
+    margin-bottom: 28px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.holiday-sale3 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.n{
+    color: rgb(255, 0, 0);
 }
