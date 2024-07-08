@@ -1,20 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 /* font-family: "Merriweather", serif; */
 
-  
+
 /* banner styles section */
-.banner-container{
-    
+.banner-container {
+
     max-width: 1320px;
     height: 600px;
-   
+
     margin: 50px 140px;
     border-radius: 16px;
-    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    background: linear-gradient(180.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%);
     background-image: url(../images/Banner\ Image.png);
-     
+
 }
-.hea{
+
+.hea {
     width: 259px;
     height: 40px;
     font-size: 32px;
@@ -22,37 +24,83 @@
     line-height: 40px;
     padding-left: 200px;
     padding-top: 50px;
-    
-    
-    
-  
-    
-   
+
+
+
+
+
+
 }
-.banner{
+
+.banner {
     width: 632px;
     height: 246px;
-   
+
     margin: 0 auto;
     background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     justify-items: center;
-   font-family:  Merriweather;
-   color: rgb(255, 255, 255);
-   margin-top: 177px;
-   text-align: center;
-   padding-top: 177px;
-   
-   
-    
+    font-family: Merriweather;
+    color: rgb(255, 255, 255);
+    margin-top: 177px;
+    text-align: center;
+    padding-top: 177px;
+
+
+
 }
-.heading{
-    
+
+.heading {
+
     font-size: 72px;
     font-weight: 900;
-    
-   
 
+
+}
+/* offer started */
+
+.offer1 {
+
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.offer2 {
+    color: rgb(255, 0, 0);
+   
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.offer3 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom:48px;
+}
+
+.offer4 {
+    width: 802.9px;
+    height: 500px;
+    margin-left: 399px;
+   
+    background-image: url(../images/New\ Year\ Photo.png);
+    
 }
