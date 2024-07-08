@@ -166,7 +166,7 @@
 
 /* section join */
 .join1 {
-   
+
     justify-items: center;
     justify-content: center;
     font-family: Inter;
@@ -205,6 +205,104 @@
     border-radius: 16px;
     background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
 }
-.p{
-    color:  rgb(255, 0, 0);;
+
+.p {
+    color: rgb(255, 0, 0);
+}
+
+/* new-offer started */
+.new-offer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.new-offer4 {
+   margin-top: 49.08px;
+   margin-left: 49.08px;
+    width: 364.84px;
+    height: 364.84px;
+    background-image: url(../images/Ellipse\ 1.png);
+   
+    
+}
+.l{
+    width: 463px;
+    height: 463px;
+   
+    border: 10px solid rgb(255, 0, 0);
+    
+    border-radius: 50%;
+
+}
+
+.new-offer1 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.new-offer2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+
+.new-offer3 {
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.new-offer5 {
+
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.new-offer6 {
+    width: 276px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.new-offer {
+    margin-top: 100px;
+    margin-left: 140px;
+}
+
+.new-offer7 {
+    width: 140px;
+    height: 132.79px;
+    margin-top: 63.56px;
+
+    background: linear-gradient(180.00deg, rgb(248, 246, 251) 12.89%, rgb(239, 220, 251) 175.655%);
+    background-image: url(../images/Group\ 96.png);
+
 }
